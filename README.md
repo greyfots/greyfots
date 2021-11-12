@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greyfots
 - 👀 I’m interested in cybersecurity and have to know code 
-- 🌱 I’m currently going through pentest courses 
+- 🌱 I’m currently enrolled through IT and pentest courses 
 - 💞️ I’m looking to learn more from anyone who knows what they're doing
 
 
